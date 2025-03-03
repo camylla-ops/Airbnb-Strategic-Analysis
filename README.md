@@ -38,4 +38,5 @@ Identificar oportunidades e ameaças para o Airbnb em cidades europeias através
 
 ## ⚙️ Tecnologias Utilizadas  
 `Python` `pandas` `Jupyter` `Matplotlib` `Google Cloud Platform`  
-
+## 📌 Dados e Referências  
+- **Dataset Original**: [Airbnb Price Determinants in Europe](https://www.kaggle.com/datasets/thedevastator/airbnb-price-determinants-in-europe)  

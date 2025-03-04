@@ -3,6 +3,7 @@
 
 ---
 
+
 ## Objetivo  
 Identificar oportunidades e ameaças para o Airbnb em cidades europeias através de uma análise exploratória (EDA) focada em:  
 - Relação entre localização, comodidades e preços.  
